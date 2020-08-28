@@ -1,0 +1,27 @@
+Brainstorming :
+
+Propositions de nom :
+Tic, Tick, TicTick, TicketManager
+
+Propositions de couleurs :
+Lovely Citrus Tea/https://www.colourlovers.com/palette/4759306/Lovely_Citrus_Tea
+https://www.colourlovers.com/palette/130451/Tis_the_Season
+
+Ajout de PopUp alerte
+
+Système de connexion client/admin
+
+Gestion de gravité du problème :
+Echelle de 1 à 5
+
+Catégorie générale du problème
+
+Description avancée du problème
+
+Statut du problème
+
+Ticket fermé par client
+
+Numéro de ticket
+
+Identité du client et bureau
